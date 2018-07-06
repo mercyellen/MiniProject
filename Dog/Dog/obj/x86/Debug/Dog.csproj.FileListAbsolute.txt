@@ -1,0 +1,5 @@
+/Users/mercyhoush/Desktop/IT2001/Dog/Dog/obj/x86/Debug/Dog.csproj.CoreCompileInputs.cache
+/Users/mercyhoush/Desktop/IT2001/Dog/Dog/bin/Debug/Dog.exe
+/Users/mercyhoush/Desktop/IT2001/Dog/Dog/bin/Debug/Dog.pdb
+/Users/mercyhoush/Desktop/IT2001/Dog/Dog/obj/x86/Debug/Dog.exe
+/Users/mercyhoush/Desktop/IT2001/Dog/Dog/obj/x86/Debug/Dog.pdb
